@@ -1,0 +1,24 @@
+*{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(bg.jpg);
+  color: white;
+}
+#gamecontainer{
+  text-align: center;
+}
+
+#gameboard{
+  border: 3px solid;
+}
+
+#scoretext{
+  font-family: cursive;
+  font-size: 2.5rem;
+}
+#resetbtn{
+  font-family: cursive;
+  font-size: 25px;
+  width: 100px;
+  border: none;
+  border-radius: 15px;
+  
+}
